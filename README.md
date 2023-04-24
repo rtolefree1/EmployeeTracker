@@ -93,7 +93,7 @@ You might want to use a separate file that contains functions for performing spe
 
 ## Bonus
 
-Try to add some additional functionality to your application, such as the ability to do the following:
+I added some additional functionality to my application, such as the ability to do the following:
 
 
 * View employees by manager.
