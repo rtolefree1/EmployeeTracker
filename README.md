@@ -100,6 +100,11 @@ I added some additional functionality to my application, such as the ability to 
 
 * View employees by department.
 
+# Programming Images
+* Views
+![](./Assets/EmployerTrackerView1.png)
+![](./Assets/EmployerTrackerView2.png)
+![](./Assets/EmployerTrackerView3.png)
 
 - - -
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
